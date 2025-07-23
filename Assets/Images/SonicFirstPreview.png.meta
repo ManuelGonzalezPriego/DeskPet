@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: 02bc41ea03384e74baf7ad52923ec280
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3046736889373375389
+    second: SonicFirstPreview_0
+  - first:
+      213: -8111990092217395226
+    second: SonicFirstPreview_1
+  - first:
+      213: 4486649006700202416
+    second: SonicFirstPreview_2
+  - first:
+      213: -6796462383107334267
+    second: SonicFirstPreview_3
+  - first:
+      213: 8055074877915139065
+    second: SonicFirstPreview_4
+  - first:
+      213: -404785899951123278
+    second: SonicFirstPreview_5
+  - first:
+      213: 4658561098082948744
+    second: SonicFirstPreview_6
+  - first:
+      213: -8740691071334524250
+    second: SonicFirstPreview_7
+  - first:
+      213: 1656372729361410159
+    second: SonicFirstPreview_8
+  - first:
+      213: -6882481461497864676
+    second: SonicFirstPreview_9
+  - first:
+      213: 4109199447134483952
+    second: SonicFirstPreview_10
+  - first:
+      213: -4037053241523102181
+    second: SonicFirstPreview_11
+  - first:
+      213: -117218068519279565
+    second: SonicFirstPreview_12
+  - first:
+      213: -8434531132885440580
+    second: SonicFirstPreview_13
+  - first:
+      213: 7638640400977439321
+    second: SonicFirstPreview_14
+  - first:
+      213: 3199553463860660557
+    second: SonicFirstPreview_15
+  - first:
+      213: -6594003320288093513
+    second: SonicFirstPreview_16
+  - first:
+      213: -8252058141732101262
+    second: SonicFirstPreview_17
+  - first:
+      213: -6877851838590075172
+    second: SonicFirstPreview_18
+  - first:
+      213: 8841325977333385353
+    second: SonicFirstPreview_19
+  - first:
+      213: 241778393947822114
+    second: SonicFirstPreview_20
+  - first:
+      213: 4973703983021599392
+    second: SonicFirstPreview_21
+  - first:
+      213: -7453365462692933171
+    second: SonicFirstPreview_22
+  - first:
+      213: -4512989588845634293
+    second: SonicFirstPreview_23
+  - first:
+      213: 455256026911529537
+    second: SonicFirstPreview_24
+  - first:
+      213: 8463180914663038629
+    second: SonicFirstPreview_25
+  - first:
+      213: 3640356582950474411
+    second: SonicFirstPreview_26
+  - first:
+      213: -2401147024100782436
+    second: SonicFirstPreview_27
+  - first:
+      213: -7078390985574717305
+    second: SonicFirstPreview_28
+  - first:
+      213: 7003983968227420343
+    second: SonicFirstPreview_29
+  - first:
+      213: 6168997634670625565
+    second: SonicFirstPreview_30
+  - first:
+      213: -4330744566042101230
+    second: SonicFirstPreview_31
+  - first:
+      213: -7644223555947107157
+    second: SonicFirstPreview_32
+  - first:
+      213: 2037778496536722298
+    second: SonicFirstPreview_33
+  - first:
+      213: -5345565425522607825
+    second: SonicFirstPreview_34
+  - first:
+      213: 334385589161163629
+    second: SonicFirstPreview_35
+  - first:
+      213: -7115721699733964152
+    second: SonicFirstPreview_36
+  - first:
+      213: 5844498288311426277
+    second: SonicFirstPreview_37
+  - first:
+      213: 5949346904591690401
+    second: SonicFirstPreview_38
+  - first:
+      213: -7777314650836904132
+    second: SonicFirstPreview_39
+  - first:
+      213: 5574926401745919316
+    second: SonicFirstPreview_40
+  - first:
+      213: 8718635033543398645
+    second: SonicFirstPreview_41
+  - first:
+      213: -4092509949705533409
+    second: SonicFirstPreview_42
+  - first:
+      213: 7169656307394555994
+    second: SonicFirstPreview_43
+  - first:
+      213: 7137296646507986647
+    second: SonicFirstPreview_44
+  - first:
+      213: -171449383867420393
+    second: SonicFirstPreview_45
+  - first:
+      213: 3389783019540268511
+    second: SonicFirstPreview_46
+  - first:
+      213: -5226189607866384676
+    second: SonicFirstPreview_47
+  - first:
+      213: -7023749346926469746
+    second: SonicFirstPreview_48
+  - first:
+      213: 199086591910055142
+    second: SonicFirstPreview_49
+  - first:
+      213: 8397589507369898736
+    second: SonicFirstPreview_50
+  - first:
+      213: 1328918905665593142
+    second: SonicFirstPreview_51
+  - first:
+      213: 546407712629427167
+    second: SonicFirstPreview_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SonicFirstPreview_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 431
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36442d001f0d7b5d0800000000000000
+      internalID: -3046736889373375389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 383
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7d4e38dfb6c6f80800000000000000
+      internalID: -8111990092217395226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 383
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b989341087c34e30800000000000000
+      internalID: 4486649006700202416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 383
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f1595c87d1ea1a0800000000000000
+      internalID: -6796462383107334267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 383
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb0e418cef59cf60800000000000000
+      internalID: 8055074877915139065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 383
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4935f5e59e16af0800000000000000
+      internalID: -404785899951123278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 383
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88610b7f2a886a040800000000000000
+      internalID: 4658561098082948744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_7
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 383
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa5da1e7c3d2b680800000000000000
+      internalID: -8740691071334524250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f682b35b83e9cf610800000000000000
+      internalID: 1656372729361410159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 335
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e553263938c70a0800000000000000
+      internalID: -6882481461497864676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 287
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5bead202fc60930800000000000000
+      internalID: 4109199447134483952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 335
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e1daf477189f7c0800000000000000
+      internalID: -4037053241523102181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_12
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 287
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334a6a8a9ce8f5ef0800000000000000
+      internalID: -117218068519279565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 335
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7e3696f9682fa80800000000000000
+      internalID: -8434531132885440580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 287
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a253339f6e10a60800000000000000
+      internalID: 7638640400977439321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_15
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 335
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4909456ce8176c20800000000000000
+      internalID: 3199553463860660557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_16
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 335
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba5b7eaae46d74a0800000000000000
+      internalID: -6594003320288093513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_17
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 335
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273203467dcca7d80800000000000000
+      internalID: -8252058141732101262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_18
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 335
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde32177136fc80a0800000000000000
+      internalID: -6877851838590075172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_19
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 335
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988c36e0223b2ba70800000000000000
+      internalID: 8841325977333385353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228df951b28fa5300800000000000000
+      internalID: 241778393947822114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 287
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aaa2f5bb65260540800000000000000
+      internalID: 4973703983021599392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_22
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 287
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1d50fe993509890800000000000000
+      internalID: -7453365462692933171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 239
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dd1d931e3ae51c0800000000000000
+      internalID: -4512989588845634293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_24
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 239
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14adae5c1f4615600800000000000000
+      internalID: 455256026911529537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 239
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae1b58b332437570800000000000000
+      internalID: 8463180914663038629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba294865605258230800000000000000
+      internalID: 3640356582950474411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_27
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 191
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e8cfed0896daed0800000000000000
+      internalID: -2401147024100782436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_28
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 191
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788ed7bc6e084cd90800000000000000
+      internalID: -7078390985574717305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_29
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 146
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8e9b67f46233160800000000000000
+      internalID: 7003983968227420343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_30
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 143
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1384caf9aeac9550800000000000000
+      internalID: 6168997634670625565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_31
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 143
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a7b1033ca16e3c0800000000000000
+      internalID: -4330744566042101230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_32
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 144
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac691c3d234ae590800000000000000
+      internalID: -7644223555947107157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_33
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 145
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b3009feb4a74c10800000000000000
+      internalID: 2037778496536722298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_34
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 143
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f297d18419cb0d5b0800000000000000
+      internalID: -5345565425522607825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_35
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 143
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bf5f3fbe9f3a400800000000000000
+      internalID: 334385589161163629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_36
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 143
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a71d690d0ef3d90800000000000000
+      internalID: -7115721699733964152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 96
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec5e2d4a34db1150800000000000000
+      internalID: 5844498288311426277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_38
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 95
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aae1cd1d73509250800000000000000
+      internalID: 5949346904591690401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_39
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 95
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37dc62f78d611490800000000000000
+      internalID: -7777314650836904132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_40
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 95
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d1301760e1e5d40800000000000000
+      internalID: 5574926401745919316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_41
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 95
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f451a4ae50def870800000000000000
+      internalID: 8718635033543398645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_42
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 95
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18cc0042eb7437c0800000000000000
+      internalID: -4092509949705533409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_43
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 95
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5034e3dc6cbf7360800000000000000
+      internalID: 7169656307394555994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_44
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 96
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7def1b72c75cc0360800000000000000
+      internalID: 7137296646507986647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_45
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 47
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7117f9991b3ee9df0800000000000000
+      internalID: -171449383867420393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_46
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 47
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5495942bdea0f20800000000000000
+      internalID: 3389783019540268511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_47
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 47
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde394ebd38d877b0800000000000000
+      internalID: -5226189607866384676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_48
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 47
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8dd011be21a68e90800000000000000
+      internalID: -7023749346926469746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec8756533c43c200800000000000000
+      internalID: 199086591910055142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_50
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f294542a2b3a8470800000000000000
+      internalID: 8397589507369898736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_51
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f9f7b24b4417210800000000000000
+      internalID: 1328918905665593142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SonicFirstPreview_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb8fcd6bea359700800000000000000
+      internalID: 546407712629427167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SonicFirstPreview_0: -3046736889373375389
+      SonicFirstPreview_1: -8111990092217395226
+      SonicFirstPreview_10: 4109199447134483952
+      SonicFirstPreview_11: -4037053241523102181
+      SonicFirstPreview_12: -117218068519279565
+      SonicFirstPreview_13: -8434531132885440580
+      SonicFirstPreview_14: 7638640400977439321
+      SonicFirstPreview_15: 3199553463860660557
+      SonicFirstPreview_16: -6594003320288093513
+      SonicFirstPreview_17: -8252058141732101262
+      SonicFirstPreview_18: -6877851838590075172
+      SonicFirstPreview_19: 8841325977333385353
+      SonicFirstPreview_2: 4486649006700202416
+      SonicFirstPreview_20: 241778393947822114
+      SonicFirstPreview_21: 4973703983021599392
+      SonicFirstPreview_22: -7453365462692933171
+      SonicFirstPreview_23: -4512989588845634293
+      SonicFirstPreview_24: 455256026911529537
+      SonicFirstPreview_25: 8463180914663038629
+      SonicFirstPreview_26: 3640356582950474411
+      SonicFirstPreview_27: -2401147024100782436
+      SonicFirstPreview_28: -7078390985574717305
+      SonicFirstPreview_29: 7003983968227420343
+      SonicFirstPreview_3: -6796462383107334267
+      SonicFirstPreview_30: 6168997634670625565
+      SonicFirstPreview_31: -4330744566042101230
+      SonicFirstPreview_32: -7644223555947107157
+      SonicFirstPreview_33: 2037778496536722298
+      SonicFirstPreview_34: -5345565425522607825
+      SonicFirstPreview_35: 334385589161163629
+      SonicFirstPreview_36: -7115721699733964152
+      SonicFirstPreview_37: 5844498288311426277
+      SonicFirstPreview_38: 5949346904591690401
+      SonicFirstPreview_39: -7777314650836904132
+      SonicFirstPreview_4: 8055074877915139065
+      SonicFirstPreview_40: 5574926401745919316
+      SonicFirstPreview_41: 8718635033543398645
+      SonicFirstPreview_42: -4092509949705533409
+      SonicFirstPreview_43: 7169656307394555994
+      SonicFirstPreview_44: 7137296646507986647
+      SonicFirstPreview_45: -171449383867420393
+      SonicFirstPreview_46: 3389783019540268511
+      SonicFirstPreview_47: -5226189607866384676
+      SonicFirstPreview_48: -7023749346926469746
+      SonicFirstPreview_49: 199086591910055142
+      SonicFirstPreview_5: -404785899951123278
+      SonicFirstPreview_50: 8397589507369898736
+      SonicFirstPreview_51: 1328918905665593142
+      SonicFirstPreview_52: 546407712629427167
+      SonicFirstPreview_6: 4658561098082948744
+      SonicFirstPreview_7: -8740691071334524250
+      SonicFirstPreview_8: 1656372729361410159
+      SonicFirstPreview_9: -6882481461497864676
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
