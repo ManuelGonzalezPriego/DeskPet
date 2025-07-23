@@ -351,6 +351,7 @@ GameObject:
   - component: {fileID: 2052530092}
   - component: {fileID: 2052530094}
   - component: {fileID: 2052530093}
+  - component: {fileID: 2052530095}
   m_Layer: 0
   m_Name: Pet
   m_TagString: Untagged
@@ -436,17 +437,34 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 7804126658106156513, guid: 66283867ee4c54846a05bcd034898b1a, type: 3}
+  m_Sprite: {fileID: -3046736889373375389, guid: 02bc41ea03384e74baf7ad52923ec280, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.29, y: 0.43}
+  m_Size: {x: 0.29, y: 0.44}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &2052530095
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2052530091}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3c3ce7695bbdf94fb267d6fc69ae624, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DEFAULTNAME: Pet
+  MAXLIFE: 100
+  MAXAGE: 18
+  MAXAPINES: 100
+  rotationSpeed: 50
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
