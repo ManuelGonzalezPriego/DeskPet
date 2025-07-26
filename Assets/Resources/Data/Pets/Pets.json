@@ -1,0 +1,41 @@
+{
+  "nodes": [
+    {
+      "id": "EggBoy",
+      "spritePath": "Sprite/EggBoy",
+      "evolutions": [
+        {
+          "target": "BabyBoy",
+          "conditions": {
+            "happiness": { "min": 0 },
+            "gender":"Boy"
+          }
+        }
+      ]
+    },
+    {
+      "id": "EggGirl",
+      "spritePath": "Sprite/EggGirl",
+      "evolutions": [
+        {
+          "target": "BabyGirl",
+          "conditions": {
+            "happiness": { "min": 0 },
+            "gender":"Girl"
+
+          }
+        }
+      ]
+    },
+    {
+      "id": "BabyBoy",
+      "spritePath": "Sprite/BabyBoy",
+      "evolutions": []
+    },
+    {
+      "id": "BabyGirl",
+      "spritePath": "Sprite/BabyGirl",
+      "evolutions": []
+    }
+  ]
+}

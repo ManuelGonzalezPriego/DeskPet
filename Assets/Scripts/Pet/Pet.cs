@@ -2,22 +2,49 @@ using System.Collections;
 using UnityEngine;
 public class Pet : MonoBehaviour
 {
-    public string DEFAULTNAME = "Pet";
-    public int MAXLIFE = 100;
-    public int MAXAGE = 18;
-    public int MAXAPINES = 100;
     private Vector2 direccion;
     private bool stoped = false;
-    private float fast = 1f;
-
     private PetStats stats;
+
+    // Check how to make the pet clickable
+    void OnMouseDown()
+    {
+        Debug.Log("Pet clicked!");
+        StartCoroutine(StopBoing(1f));
+    }
 
     private void Start()
     {
-        // Initialize the pet stats with default values, this is a example, need to be changed
-        stats = new PetStats(DEFAULTNAME, 0, MAXLIFE, MAXAPINES);
+        // Sprite[] skin = Resources.LoadAll<Sprite>("Images/toto");
+        // // Initialize the pet stats with default values, this is a example, need to be changed
+        // stats = new PetStats(name,skin[Random.Range(0, skin.Length)]);
 
-        direccion = new Vector2(1, 0.3f).normalized;
+        // SpriteRenderer sr = GetComponent<SpriteRenderer>();
+        // sr.sprite = stats.Skin;
+        // transform.localScale = new Vector3(1f, 1f, 1f);
+
+        // 1. Cargar evolución desde JSON
+        EvolutionLoader loader = new EvolutionLoader();
+        EvolutionTree tree = loader.LoadEvolutionTree();
+
+        // 2. Asignar género aleatorio
+        Gender randomGender = (Gender)Random.Range(0, 2);
+
+        // 3. Buscar el nodo correspondiente (EggBoy o EggGirl)
+        string eggId = randomGender == Gender.Boy ? "EggBoy" : "EggGirl";
+        EvolutionNode eggNode = tree.nodes.Find(n => n.id == eggId);
+
+        // 4. Cargar el sprite del huevo desde Resources
+        Sprite[] sprites = Resources.LoadAll<Sprite>(eggNode.spritePath);
+        Sprite selectedSprite = sprites.Length > 0 ? sprites[Random.Range(0, sprites.Length)] : null;
+
+        // 5. Crear stats e instanciar sprite
+        stats = new PetStats(name, selectedSprite);
+        SpriteRenderer sr = GetComponent<SpriteRenderer>();
+        sr.sprite = stats.Skin;
+        transform.localScale = new Vector3(1f, 1f, 1f);
+
+        
     }
 
     private void Update()
@@ -29,15 +56,7 @@ public class Pet : MonoBehaviour
     private void RandomMove()
     {
         if (stoped) return;
-
-        transform.Translate(direccion * fast * Time.deltaTime);
-    }
-
-    // Check how to make the pet clickable
-    private void OnMouseDown()
-    {
-        Debug.Log("Pet clicked!");
-        StartCoroutine(StopBoing(1f));
+        transform.Translate(this.stats.Direction * this.stats.Fast * Time.deltaTime);
     }
     
     private void OnCollisionEnter2D(Collision2D collision)
